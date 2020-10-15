@@ -1,0 +1,9 @@
+.containerHeader {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+
+    background-color: rgba(165,255,0,0.85);
+}

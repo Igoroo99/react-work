@@ -1,0 +1,9 @@
+.containerFooter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 1;
+
+    background-color: rgb(16, 192, 236);
+}
